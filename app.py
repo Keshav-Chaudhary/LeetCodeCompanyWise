@@ -56,3 +56,5 @@ def get_company_data():
 
     return f'<div class="table-responsive">{table_html}</div>'
 
+if __name__ == '__main__':
+    app.run(debug=True)
