@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/59142262-d25a-4078-bb7b-9f125edd7ecd)
+
 ## LeetCode Questions by Company
 
 This repository contains a curated collection of LeetCode problems categorized by the companies that frequently ask them in interviews. The goal is to provide a resource for job seekers to prepare effectively for coding interviews by focusing on the most relevant problems for specific companies.
