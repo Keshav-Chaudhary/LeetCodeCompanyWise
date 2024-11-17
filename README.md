@@ -2,7 +2,7 @@
 
 ## LeetCode Questions by Company
 
-This repository contains a curated collection of LeetCode problems categorized by the companies that frequently ask them in interviews. The goal is to provide a resource for job seekers to prepare effectively for coding interviews by focusing on the most relevant problems for specific companies.
+This Webpage contains a curated collection of LeetCode problems categorized by the companies that frequently ask them in interviews. The goal is to provide a resource for job seekers to prepare effectively for coding interviews by focusing on the most relevant problems for specific companies.
 
 ### Repository Structure:
 - **`LeetCodeCompanyWise`**: A directory containing problems organized by company.
