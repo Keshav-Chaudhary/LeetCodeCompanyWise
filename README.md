@@ -16,7 +16,7 @@ This repository contains a curated collection of LeetCode problems categorized b
 - Provides a structured approach to LeetCode interview preparation.
 - Easy to navigate through different company-specific problem sets.
   
-Here’s an installation guide for the repository you described:
+
 
 ---
 
