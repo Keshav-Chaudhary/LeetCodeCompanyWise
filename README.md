@@ -63,3 +63,14 @@ If you wish to execute the `app.py` script, you can run it with the following co
 ```bash
 python app.py
 ```
+
+### Future Features
+1. **User Authentication and Personalized Progress Tracking**
+2. **Problem Difficulty and Time Estimation**
+3. **Company-Specific Interview Insights**
+4. **Sorting and Filtering by Difficulty and Topic**
+5. **Automated Solution Submissions**
+6. **LeetCode Patterns and Approach Guide**
+7. **Interactive Problem Solving Sessions**
+8. **Company-Specific Trends and Hiring Insights**
+
